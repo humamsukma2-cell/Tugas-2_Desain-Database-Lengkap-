@@ -23,3 +23,4 @@
    3. Jumlah buku per penerbit <img width="1646" height="608" alt="query 3" src="https://github.com/user-attachments/assets/ef51179c-64c3-4863-83fc-894f4398de4c" />
 
    4. Buku beserta detail lengkap (kategori + penerbit) <img width="1584" height="670" alt="query 4" src="https://github.com/user-attachments/assets/a6e36143-0be1-4040-9cbe-b0328f391cd3" />
+4. ERD perpustakaan_lengkap <img width="462" height="356" alt="ERD_Perpustakaan_Lengkap drawio" src="https://github.com/user-attachments/assets/aa1c295d-5958-41ee-beca-7112227951a0" />
